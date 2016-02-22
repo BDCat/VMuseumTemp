@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<header>
+<h1>Virtual Museum</h1>
+<p> By: Tom Elmer </p>
+
+<link rel="stylesheet" href="style.css">
+</header>
+
+
+<footer>
+</footer>
+</body>
+</html>
